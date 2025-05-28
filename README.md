@@ -1,4 +1,4 @@
-# Chat App
+# Chat App ([Demo](https://youtu.be/c2In6DRbUDY))
 
 Một ứng dụng chat thời gian thực với giao diện hiện đại, sử dụng **React + Vite + Tailwind CSS** cho frontend và **Express.js + WebSocket** cho backend.
 
